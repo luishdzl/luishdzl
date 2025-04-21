@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Hernandez</h1>
 <h3 align="center">I create perfect tools to help you</h3>
-
+<h1 aling="center">I am a programmer who enjoys creating apps, landing pages, and web applications. I am passionate about new technologies and tools that enhance my skills. Solving problems excites me, as they represent personal challenges that push me to grow and improve continually.</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=luishdzl&label=Profile%20views&color=0e75b6&style=flat" alt="luishdzl" /> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
